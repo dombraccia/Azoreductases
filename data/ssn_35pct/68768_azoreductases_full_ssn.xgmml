@@ -1,0 +1,3127 @@
+<!-- Database: 86 -->
+
+<graph label="azoreductases Full Network" xmlns="http://www.cs.rpi.edu/XGMML">
+  <node id="A0A024K767" label="A0A024K767">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Parageobacillus thermoglucosidasius " />
+    <att name="Taxonomy ID" type="string" value="1426" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="Azoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="289" />
+    <att name="Gene Name" type="string" value="azr" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:629265280" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:CDP32877.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Parageobacillus" />
+    <att name="Species" type="string" value="Parageobacillus thermoglucosidasius" />
+    <att name="EC" type="string" value="None" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF05368" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR008030" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR036291" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="None" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="0" />
+  </node>
+  <node id="A0A073KHN9" label="A0A073KHN9">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Shewanella xiamenensis." />
+    <att name="Taxonomy ID" type="string" value="332186" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="198" />
+    <att name="Gene Name" type="string" value="ABT47_09655" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:1063580124" />
+      <att type="string" name="NCBI IDs" value="GI:739565122" />
+      <att type="string" name="NCBI IDs" value="GI:659913264" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:KEK26829.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:ODR85555.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_037423238.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Gammaproteobacteria" />
+    <att name="Order" type="string" value="Alteromonadales" />
+    <att name="Family" type="string" value="Shewanellaceae" />
+    <att name="Genus" type="string" value="Shewanella" />
+    <att name="Species" type="string" value="Shewanella xiamenensis" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000256|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 15290." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016787 hydrolase activity" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="fig|332186.8.peg.2007" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="6" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FFBA10" />
+    <att type="string" name="node.fillColor" value="#FFBA10" />
+  </node>
+  <node id="A0A166B8K4" label="A0A166B8K4">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Bacillus badius." />
+    <att name="Taxonomy ID" type="string" value="1455" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="208" />
+    <att name="Gene Name" type="string" value="SD77_3228" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:751626836" />
+      <att type="string" name="NCBI IDs" value="GI:1021597247" />
+      <att type="string" name="NCBI IDs" value="GI:751190897" />
+      <att type="string" name="NCBI IDs" value="GI:1049941753" />
+      <att type="string" name="NCBI IDs" value="GI:1202045673" />
+      <att type="string" name="NCBI IDs" value="GI:751194204" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:KIL79362.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_041094649.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Bacillus" />
+    <att name="Species" type="string" value="Bacillus badius" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000256|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="fig|1455.4.peg.176" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="8.4" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF3232" />
+    <att type="string" name="node.fillColor" value="#FF3232" />
+  </node>
+  <node id="A0A1B1KJ01" label="A0A1B1KJ01">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Rhodococcus opacus " />
+    <att name="Taxonomy ID" type="string" value="37919" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="214" />
+    <att name="Gene Name" type="string" value="R1CP_39980" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:1063126165" />
+      <att type="string" name="NCBI IDs" value="GI:1045421801" />
+      <att type="string" name="NCBI IDs" value="GI:1043694060" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:ANS32577.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_065493914.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Actinobacteria" />
+    <att name="Class" type="string" value="Actinomycetia" />
+    <att name="Order" type="string" value="Corynebacteriales" />
+    <att name="Family" type="string" value="Nocardiaceae" />
+    <att name="Genus" type="string" value="Rhodococcus" />
+    <att name="Species" type="string" value="Rhodococcus opacus" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000256|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.17 4353." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="fig|37919.13.peg.8427" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="0" />
+  </node>
+  <node id="A0A1W6D7D8" label="A0A1W6D7D8">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Halomonas elongata." />
+    <att name="Taxonomy ID" type="string" value="2746" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="200" />
+    <att name="Gene Name" type="string" value="azoR" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:1379762581" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:ARJ98790.2" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Gammaproteobacteria" />
+    <att name="Order" type="string" value="Oceanospirillales" />
+    <att name="Family" type="string" value="Halomonadaceae" />
+    <att name="Genus" type="string" value="Halomonas" />
+    <att name="Species" type="string" value="Halomonas elongata" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000256|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="6.4" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF7621" />
+    <att type="string" name="node.fillColor" value="#FF7621" />
+  </node>
+  <node id="A0A2S5CVK5" label="A0A2S5CVK5">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Lysinibacillus sphaericus " />
+    <att name="Taxonomy ID" type="string" value="1421" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="208" />
+    <att name="Gene Name" type="string" value="LS41612_02380" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:636839589" />
+      <att type="string" name="NCBI IDs" value="GI:1356615075" />
+      <att type="string" name="NCBI IDs" value="GI:1065825368" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AVK95221.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:POZ54871.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_024361348.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Lysinibacillus" />
+    <att name="Species" type="string" value="Lysinibacillus sphaericus" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000256|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="Skin" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="Microaerophilic" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="9.75" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF1774" />
+    <att type="string" name="node.fillColor" value="#FF1774" />
+  </node>
+  <node id="A0A2X4WAA7" label="A0A2X4WAA7">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Lederbergia lentus " />
+    <att name="Taxonomy ID" type="string" value="1467" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="212" />
+    <att name="Gene Name" type="string" value="NCTC4824_02572" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:1054048827" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:SQI60081.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_066139395.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Lederbergia" />
+    <att name="Species" type="string" value="Lederbergia lentus" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000256|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016787 hydrolase activity" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="blen:NCTC4824_02572" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="0" />
+  </node>
+  <node id="A1B9E3" label="A1B9E3">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Paracoccus denitrificans  (strain Pd 1222)" />
+    <att name="Taxonomy ID" type="string" value="318586" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="NADPH-dependent FMN reductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="182" />
+    <att name="Gene Name" type="string" value="Pden_4071" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:119377373" />
+      <att type="string" name="NCBI IDs" value="GI:500074292" />
+      <att type="string" name="NCBI IDs" value="GI:409973692" />
+      <att type="string" name="NCBI IDs" value="GI:409973693" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:ABL72137.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_011750305.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Alphaproteobacteria" />
+    <att name="Order" type="string" value="Rhodobacterales" />
+    <att name="Family" type="string" value="Rhodobacteraceae" />
+    <att name="Genus" type="string" value="Paracoccus" />
+    <att name="Species" type="string" value="Paracoccus denitrificans PD1222" />
+    <att name="EC" type="string" value="None" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF03358" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="3U7R" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR005025" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.6.5.2 3341." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0016491 oxidoreductase activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="pde:Pden_4071" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="318586.Pden_4071" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="True" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="0" />
+  </node>
+  <node id="C0STY0" label="C0STY0">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Bacillus sp. B29." />
+    <att name="Taxonomy ID" type="string" value="391699" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="208" />
+    <att name="Gene Name" type="string" value="azoR" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:226069324" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAH36886.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Bacillus" />
+    <att name="Species" type="string" value="Bacillus sp. B29" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000256|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 11003." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="8.66" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF2453" />
+    <att type="string" name="node.fillColor" value="#FF2453" />
+  </node>
+  <node id="C0STY1" label="C0STY1">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Bacillus sp. B29." />
+    <att name="Taxonomy ID" type="string" value="391699" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="211" />
+    <att name="Gene Name" type="string" value="azoR" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:584579561" />
+      <att type="string" name="NCBI IDs" value="GI:584579557" />
+      <att type="string" name="NCBI IDs" value="GI:584579563" />
+      <att type="string" name="NCBI IDs" value="GI:584579558" />
+      <att type="string" name="NCBI IDs" value="GI:584579556" />
+      <att type="string" name="NCBI IDs" value="GI:584579562" />
+      <att type="string" name="NCBI IDs" value="GI:584579564" />
+      <att type="string" name="NCBI IDs" value="GI:584579560" />
+      <att type="string" name="NCBI IDs" value="GI:226069326" />
+      <att type="string" name="NCBI IDs" value="GI:584579555" />
+      <att type="string" name="NCBI IDs" value="GI:584579566" />
+      <att type="string" name="NCBI IDs" value="GI:584579559" />
+      <att type="string" name="NCBI IDs" value="GI:584579565" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAH36887.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Bacillus" />
+    <att name="Species" type="string" value="Bacillus sp. B29" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000256|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="3W78" />
+      <att type="string" name="PDB" value="3W79" />
+      <att type="string" name="PDB" value="3W7A" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 11003." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="9" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF2453" />
+    <att type="string" name="node.fillColor" value="#FF2453" />
+  </node>
+  <node id="D0EFL2" label="D0EFL2">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Enterococcus faecium " />
+    <att name="Taxonomy ID" type="string" value="1352" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="Azoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="188" />
+    <att name="Gene Name" type="string" value="None" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:260066270" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:ACX30669.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Lactobacillales" />
+    <att name="Family" type="string" value="Enterococcaceae" />
+    <att name="Genus" type="string" value="Enterococcus" />
+    <att name="Species" type="string" value="Enterococcus faecium" />
+    <att name="EC" type="string" value="None" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF03358" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR005025" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 2096." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0016491 oxidoreductase activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="Skin" />
+      <att type="string" name="HMP Body Site" value="Not Specified" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="Facultative" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="1" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#14326E" />
+    <att type="string" name="node.fillColor" value="#14326E" />
+  </node>
+  <node id="D5HN83" label="D5HN83">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Pigmentiphaga kullae." />
+    <att name="Taxonomy ID" type="string" value="151784" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="Azoreductase B" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="203" />
+    <att name="Gene Name" type="string" value="EV675_5449" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:291163415" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:ADD80733.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:RZS78792.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Betaproteobacteria" />
+    <att name="Order" type="string" value="Burkholderiales" />
+    <att name="Family" type="string" value="Alcaligenaceae" />
+    <att name="Genus" type="string" value="Pigmentiphaga" />
+    <att name="Species" type="string" value="Pigmentiphaga kullae" />
+    <att name="EC" type="string" value="1.7.1.6 {ECO:0000313|EMBL:ADD80733.1}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF13460" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR016040" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR036291" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 7793." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0050446 azobenzene reductase activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="1" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#14326E" />
+    <att type="string" name="node.fillColor" value="#14326E" />
+  </node>
+  <node id="H0U8Q1" label="H0U8Q1">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Brevibacillus laterosporus GI-9." />
+    <att name="Taxonomy ID" type="string" value="1118154" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="236" />
+    <att name="Gene Name" type="string" value="BLGI_1769" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:CCF13845.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Paenibacillaceae" />
+    <att name="Genus" type="string" value="Brevibacillus" />
+    <att name="Species" type="string" value="Brevibacillus laterosporus GI-9" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000256|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="9" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF2453" />
+    <att type="string" name="node.fillColor" value="#FF2453" />
+  </node>
+  <node id="O07529" label="O07529">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Bacillus subtilis  (strain 168)" />
+    <att name="Taxonomy ID" type="string" value="224308" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADPH-azoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADPH-azoreductase" />
+    <att name="Sequence Length" type="integer" value="174" />
+    <att name="Gene Name" type="string" value="azr" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:81341002" />
+      <att type="string" name="NCBI IDs" value="GI:259090198" />
+      <att type="string" name="NCBI IDs" value="GI:259090203" />
+      <att type="string" name="NCBI IDs" value="GI:259090195" />
+      <att type="string" name="NCBI IDs" value="GI:259090208" />
+      <att type="string" name="NCBI IDs" value="GI:109158046" />
+      <att type="string" name="NCBI IDs" value="GI:259090202" />
+      <att type="string" name="NCBI IDs" value="GI:259090194" />
+      <att type="string" name="NCBI IDs" value="GI:259090210" />
+      <att type="string" name="NCBI IDs" value="GI:16077999" />
+      <att type="string" name="NCBI IDs" value="GI:109158048" />
+      <att type="string" name="NCBI IDs" value="GI:259090201" />
+      <att type="string" name="NCBI IDs" value="GI:259090200" />
+      <att type="string" name="NCBI IDs" value="GI:259090209" />
+      <att type="string" name="NCBI IDs" value="GI:259090204" />
+      <att type="string" name="NCBI IDs" value="GI:109158049" />
+      <att type="string" name="NCBI IDs" value="GI:259090197" />
+      <att type="string" name="NCBI IDs" value="GI:34810966" />
+      <att type="string" name="NCBI IDs" value="GI:259090191" />
+      <att type="string" name="NCBI IDs" value="GI:259090196" />
+      <att type="string" name="NCBI IDs" value="GI:259090207" />
+      <att type="string" name="NCBI IDs" value="GI:259090193" />
+      <att type="string" name="NCBI IDs" value="GI:109158047" />
+      <att type="string" name="NCBI IDs" value="GI:489337493" />
+      <att type="string" name="NCBI IDs" value="GI:259090199" />
+      <att type="string" name="NCBI IDs" value="GI:259090205" />
+      <att type="string" name="NCBI IDs" value="GI:259090192" />
+      <att type="string" name="NCBI IDs" value="GI:259090206" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAB85976.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:CAA74434.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:CAB12762.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_388815.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_003244703.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Bacillus" />
+    <att name="Species" type="string" value="Bacillus subtilis subsp. subtilis str. 168" />
+    <att name="EC" type="string" value="1.7.-.-" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF03358" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="1NNI" />
+      <att type="string" name="PDB" value="2GSW" />
+      <att type="string" name="PDB" value="3GFQ" />
+      <att type="string" name="PDB" value="3GFR" />
+      <att type="string" name="PDB" value="3GFS" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR005025" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 658." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0042802 identical protein binding" />
+      <att type="string" name="GO Term" value="0016491 oxidoreductase activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="bsu:BSU09340" />
+    <att name="PATRIC ID" type="string" value="fig|224308.179.peg.1007" />
+    <att name="STRING ID" type="string" value="224308.BSU09340" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="True" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="3" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#627649" />
+    <att type="string" name="node.fillColor" value="#627649" />
+  </node>
+  <node id="O32224" label="O32224">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Bacillus subtilis  (strain 168)" />
+    <att name="Taxonomy ID" type="string" value="224308" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADH:quinone oxidoreductase 2" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADH:quinone oxidoreductase 2" />
+    <att name="Sequence Length" type="integer" value="211" />
+    <att name="Gene Name" type="string" value="yvaB" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:16080407" />
+      <att type="string" name="NCBI IDs" value="GI:489336369" />
+      <att type="string" name="NCBI IDs" value="GI:22001482" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:CAB15359.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_391234.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_003243587.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Bacillus" />
+    <att name="Species" type="string" value="Bacillus subtilis subsp. subtilis str. 168" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216, ECO:0000269|PubMed:17284825}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="bsu:BSU33540" />
+    <att name="PATRIC ID" type="string" value="fig|224308.179.peg.3639" />
+    <att name="STRING ID" type="string" value="224308.BSU33540" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="True" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="9" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF2453" />
+    <att type="string" name="node.fillColor" value="#FF2453" />
+  </node>
+  <node id="O35022" label="O35022">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Bacillus subtilis  (strain 168)" />
+    <att name="Taxonomy ID" type="string" value="224308" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADH:quinone oxidoreductase 1" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADH:quinone oxidoreductase 1" />
+    <att name="Sequence Length" type="integer" value="208" />
+    <att name="Gene Name" type="string" value="yocJ" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:8469099" />
+      <att type="string" name="NCBI IDs" value="GI:489323948" />
+      <att type="string" name="NCBI IDs" value="GI:16078983" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAB84476.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:CAB13815.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_389804.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_003231260.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Bacillus" />
+    <att name="Species" type="string" value="Bacillus subtilis subsp. subtilis str. 168" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="bsu:BSU19230" />
+    <att name="PATRIC ID" type="string" value="fig|224308.179.peg.2103" />
+    <att name="STRING ID" type="string" value="224308.BSU19230" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="True" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="8.4" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF3232" />
+    <att type="string" name="node.fillColor" value="#FF3232" />
+  </node>
+  <node id="P0AEY5" label="P0AEY5">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Escherichia coli  (strain K12)" />
+    <att name="Taxonomy ID" type="string" value="83333" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="NADPH:quinone oxidoreductase MdaB" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NADPH:quinone oxidoreductase MdaB" />
+    <att name="Sequence Length" type="integer" value="193" />
+    <att name="Gene Name" type="string" value="b3028" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:882558" />
+      <att type="string" name="NCBI IDs" value="GI:84027880" />
+      <att type="string" name="NCBI IDs" value="GI:16130924" />
+      <att type="string" name="NCBI IDs" value="GI:445987575" />
+      <att type="string" name="NCBI IDs" value="GI:85675831" />
+      <att type="string" name="NCBI IDs" value="GI:1789406" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAC43451.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAA69196.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAC76064.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAE77084.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_417500.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_000065430.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Gammaproteobacteria" />
+    <att name="Order" type="string" value="Enterobacterales" />
+    <att name="Family" type="string" value="Enterobacteriaceae" />
+    <att name="Genus" type="string" value="Escherichia" />
+    <att name="Species" type="string" value="Escherichia coli K-12" />
+    <att name="EC" type="string" value="1.6.5.10 {ECO:0000269|PubMed:8611590}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0050660 flavin adenine dinucleotide binding" />
+      <att type="string" name="GO Term" value="0008753 NADPH dehydrogenase (quinone) activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="ecj:JW2996,eco:b3028" />
+    <att name="PATRIC ID" type="string" value="fig|1411691.4.peg.3703" />
+    <att name="STRING ID" type="string" value="511145.b3028" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="1" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#14326E" />
+    <att type="string" name="node.fillColor" value="#14326E" />
+  </node>
+  <node id="P0AGE6" label="P0AGE6">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Escherichia coli  (strain K12)" />
+    <att name="Taxonomy ID" type="string" value="83333" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="Quinone reductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="Quinone reductase" />
+    <att name="Sequence Length" type="integer" value="188" />
+    <att name="Gene Name" type="string" value="chrR" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:808720037" />
+      <att type="string" name="NCBI IDs" value="GI:731472643" />
+      <att type="string" name="NCBI IDs" value="GI:827620119" />
+      <att type="string" name="NCBI IDs" value="GI:827618558" />
+      <att type="string" name="NCBI IDs" value="GI:388603952" />
+      <att type="string" name="NCBI IDs" value="GI:991979045" />
+      <att type="string" name="NCBI IDs" value="GI:808698144" />
+      <att type="string" name="NCBI IDs" value="GI:84028020" />
+      <att type="string" name="NCBI IDs" value="GI:808711253" />
+      <att type="string" name="NCBI IDs" value="GI:808715617" />
+      <att type="string" name="NCBI IDs" value="GI:16131581" />
+      <att type="string" name="NCBI IDs" value="GI:808706894" />
+      <att type="string" name="NCBI IDs" value="GI:808702524" />
+      <att type="string" name="NCBI IDs" value="GI:388603953" />
+      <att type="string" name="NCBI IDs" value="GI:447214012" />
+      <att type="string" name="NCBI IDs" value="GI:1790149" />
+      <att type="string" name="NCBI IDs" value="GI:808732721" />
+      <att type="string" name="NCBI IDs" value="GI:991973546" />
+      <att type="string" name="NCBI IDs" value="GI:802137017" />
+      <att type="string" name="NCBI IDs" value="GI:808728358" />
+      <att type="string" name="NCBI IDs" value="GI:85676325" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAA62064.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAC76736.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAE77575.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_418169.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_001291268.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Gammaproteobacteria" />
+    <att name="Order" type="string" value="Enterobacterales" />
+    <att name="Family" type="string" value="Enterobacteriaceae" />
+    <att name="Genus" type="string" value="Escherichia" />
+    <att name="Species" type="string" value="Escherichia coli K-12" />
+    <att name="EC" type="string" value="1.6.-.- {ECO:0000269|PubMed:14766567, ECO:0000269|PubMed:17088379, ECO:0000269|PubMed:22558308}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF03358" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="3SVL" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR005025" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0050136 NADH dehydrogenase (quinone) activity" />
+      <att type="string" name="GO Term" value="0008753 NADPH dehydrogenase (quinone) activity" />
+      <att type="string" name="GO Term" value="0016491 oxidoreductase activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="ecj:JW3691,eco:b3713" />
+    <att name="PATRIC ID" type="string" value="fig|1411691.4.peg.2988" />
+    <att name="STRING ID" type="string" value="511145.b3713" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="1" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#14326E" />
+    <att type="string" name="node.fillColor" value="#14326E" />
+  </node>
+  <node id="P41407" label="P41407">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Escherichia coli  (strain K12)" />
+    <att name="Taxonomy ID" type="string" value="83333" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADH:quinone oxidoreductase" />
+    <att name="Sequence Length" type="integer" value="201" />
+    <att name="Gene Name" type="string" value="acpD" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:808722038" />
+      <att type="string" name="NCBI IDs" value="GI:50513747" />
+      <att type="string" name="NCBI IDs" value="GI:827621812" />
+      <att type="string" name="NCBI IDs" value="GI:806327" />
+      <att type="string" name="NCBI IDs" value="GI:169791821" />
+      <att type="string" name="NCBI IDs" value="GI:1787680" />
+      <att type="string" name="NCBI IDs" value="GI:1742298" />
+      <att type="string" name="NCBI IDs" value="GI:802134905" />
+      <att type="string" name="NCBI IDs" value="GI:109157436" />
+      <att type="string" name="NCBI IDs" value="GI:731470332" />
+      <att type="string" name="NCBI IDs" value="GI:808700158" />
+      <att type="string" name="NCBI IDs" value="GI:3041759" />
+      <att type="string" name="NCBI IDs" value="GI:808708903" />
+      <att type="string" name="NCBI IDs" value="GI:808717668" />
+      <att type="string" name="NCBI IDs" value="GI:808734769" />
+      <att type="string" name="NCBI IDs" value="GI:169791820" />
+      <att type="string" name="NCBI IDs" value="GI:445971095" />
+      <att type="string" name="NCBI IDs" value="GI:169791823" />
+      <att type="string" name="NCBI IDs" value="GI:808704533" />
+      <att type="string" name="NCBI IDs" value="GI:991971344" />
+      <att type="string" name="NCBI IDs" value="GI:169791822" />
+      <att type="string" name="NCBI IDs" value="GI:169791819" />
+      <att type="string" name="NCBI IDs" value="GI:991976845" />
+      <att type="string" name="NCBI IDs" value="GI:16129373" />
+      <att type="string" name="NCBI IDs" value="GI:808730358" />
+      <att type="string" name="NCBI IDs" value="GI:60593681" />
+      <att type="string" name="NCBI IDs" value="GI:827616876" />
+      <att type="string" name="NCBI IDs" value="GI:2506969" />
+      <att type="string" name="NCBI IDs" value="GI:808713256" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAA25408.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAC74494.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAA15024.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAA07684.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_415930.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_000048950.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Gammaproteobacteria" />
+    <att name="Order" type="string" value="Enterobacterales" />
+    <att name="Family" type="string" value="Enterobacteriaceae" />
+    <att name="Genus" type="string" value="Escherichia" />
+    <att name="Species" type="string" value="Escherichia coli K-12" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216, ECO:0000269|PubMed:11583992}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="1TIK" />
+      <att type="string" name="PDB" value="1V4B" />
+      <att type="string" name="PDB" value="2D5I" />
+      <att type="string" name="PDB" value="2Z98" />
+      <att type="string" name="PDB" value="2Z9B" />
+      <att type="string" name="PDB" value="2Z9C" />
+      <att type="string" name="PDB" value="2Z9D" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.17 2026.,1.7.1.6 2026." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0050446 azobenzene reductase activity" />
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="ecj:JW1409,eco:b1412" />
+    <att name="PATRIC ID" type="string" value="fig|1411691.4.peg.859" />
+    <att name="STRING ID" type="string" value="511145.b1412" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="6" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FFBA10" />
+    <att type="string" name="node.fillColor" value="#FFBA10" />
+  </node>
+  <node id="Q0WXX2" label="Q0WXX2">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Bacillus sp. B29." />
+    <att name="Taxonomy ID" type="string" value="391699" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="208" />
+    <att name="Gene Name" type="string" value="azoR" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:111073861" />
+      <att type="string" name="NCBI IDs" value="GI:584579554" />
+      <att type="string" name="NCBI IDs" value="GI:584579553" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAF02597.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Bacillus" />
+    <att name="Species" type="string" value="Bacillus sp. B29" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000256|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="3W77" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.17 11003." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="8.4" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF3232" />
+    <att type="string" name="node.fillColor" value="#FF3232" />
+  </node>
+  <node id="Q50H63" label="Q50H63">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Staphylococcus aureus." />
+    <att name="Taxonomy ID" type="string" value="1280" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADPH-azoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADPH-azoreductase" />
+    <att name="Sequence Length" type="integer" value="188" />
+    <att name="Gene Name" type="string" value="azo1" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:75495145" />
+      <att type="string" name="NCBI IDs" value="GI:446599915" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAT29034.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_000677261.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Staphylococcaceae" />
+    <att name="Genus" type="string" value="Staphylococcus" />
+    <att name="Species" type="string" value="Staphylococcus aureus" />
+    <att name="EC" type="string" value="1.7.1.17" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF03358" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR005025" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 3352." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0016491 oxidoreductase activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="Urogenital tract" />
+      <att type="string" name="HMP Body Site" value="Not Specified" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="Facultative" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="1" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#14326E" />
+    <att type="string" name="node.fillColor" value="#14326E" />
+  </node>
+  <node id="Q6YAN1" label="Q6YAN1">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Pigmentiphaga kullae." />
+    <att name="Taxonomy ID" type="string" value="151784" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="Aerobic azoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="200" />
+    <att name="Gene Name" type="string" value="azoA" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:37725752" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAO39146.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Betaproteobacteria" />
+    <att name="Order" type="string" value="Burkholderiales" />
+    <att name="Family" type="string" value="Alcaligenaceae" />
+    <att name="Genus" type="string" value="Pigmentiphaga" />
+    <att name="Species" type="string" value="Pigmentiphaga kullae" />
+    <att name="EC" type="string" value="None" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF13460" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR016040" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR036291" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 7793." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="None" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="1" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#14326E" />
+    <att type="string" name="node.fillColor" value="#14326E" />
+  </node>
+  <node id="Q7UC03" label="Q7UC03">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Shigella flexneri." />
+    <att name="Taxonomy ID" type="string" value="623" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="NADPH-dependent FMN reductase ArsH" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NADPH-dependent FMN reductase ArsH" />
+    <att name="Sequence Length" type="integer" value="255" />
+    <att name="Gene Name" type="string" value="SF2457T_0606" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:75386123" />
+      <att type="string" name="NCBI IDs" value="GI:90109756" />
+      <att type="string" name="NCBI IDs" value="GI:90109755" />
+      <att type="string" name="NCBI IDs" value="GI:30042143" />
+      <att type="string" name="NCBI IDs" value="GI:90109753" />
+      <att type="string" name="NCBI IDs" value="GI:90109754" />
+      <att type="string" name="NCBI IDs" value="GI:313650980" />
+      <att type="string" name="NCBI IDs" value="GI:447162133" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAP17869.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:EFS15380.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_001239389.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Gammaproteobacteria" />
+    <att name="Order" type="string" value="Enterobacterales" />
+    <att name="Family" type="string" value="Enterobacteriaceae" />
+    <att name="Genus" type="string" value="Shigella" />
+    <att name="Species" type="string" value="Shigella flexneri" />
+    <att name="EC" type="string" value="1.-.-.- {ECO:0000269|PubMed:17962405}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF03358" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="2FZV" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR005025" />
+    <att name="InterPro (Family)" type="string" value="IPR014063" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0050446 azobenzene reductase activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0052873 FMN reductase (NADPH) activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="sfx:S2709" />
+    <att name="PATRIC ID" type="string" value="fig|198215.9.peg.575" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="2" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#14326E" />
+    <att type="string" name="node.fillColor" value="#14326E" />
+  </node>
+  <node id="Q831B2" label="Q831B2">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Enterococcus faecalis  (strain ATCC 700802 / V583)" />
+    <att name="Taxonomy ID" type="string" value="226185" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADH:quinone oxidoreductase" />
+    <att name="Sequence Length" type="integer" value="208" />
+    <att name="Gene Name" type="string" value="azoA" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:29344552" />
+      <att type="string" name="NCBI IDs" value="GI:116667777" />
+      <att type="string" name="NCBI IDs" value="GI:116667776" />
+      <att type="string" name="NCBI IDs" value="GI:81436396" />
+      <att type="string" name="NCBI IDs" value="GI:29377086" />
+      <att type="string" name="NCBI IDs" value="GI:116667775" />
+      <att type="string" name="NCBI IDs" value="GI:116667778" />
+      <att type="string" name="NCBI IDs" value="GI:488295944" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAR38851.1" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAO82310.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_816240.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_002367152.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Lactobacillales" />
+    <att name="Family" type="string" value="Enterococcaceae" />
+    <att name="Genus" type="string" value="Enterococcus" />
+    <att name="Species" type="string" value="Enterococcus faecalis V583" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216, ECO:0000269|PubMed:15003265}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="2HPV" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.17 2095.,1.7.1.6 2095." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="efa:EF2601" />
+    <att name="PATRIC ID" type="string" value="fig|226185.45.peg.955" />
+    <att name="STRING ID" type="string" value="226185.EF_2601" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="Gastrointestinal tract" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="Facultative" />
+    <att name="P01 gDNA" type="string" value="True" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="9.42" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF1774" />
+    <att type="string" name="node.fillColor" value="#FF1774" />
+  </node>
+  <node id="Q88EC8" label="Q88EC8">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Pseudomonas putida  (strain ATCC 47054 / DSM 6125 / NCIMB 11950 / KT2440)" />
+    <att name="Taxonomy ID" type="string" value="160488" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADH:quinone oxidoreductase 2" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADH:quinone oxidoreductase 2" />
+    <att name="Sequence Length" type="integer" value="199" />
+    <att name="Gene Name" type="string" value="azoR2" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:489347486" />
+      <att type="string" name="NCBI IDs" value="GI:26991222" />
+      <att type="string" name="NCBI IDs" value="GI:81439765" />
+      <att type="string" name="NCBI IDs" value="GI:24986273" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAN70111.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_746647.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_003254608.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Gammaproteobacteria" />
+    <att name="Order" type="string" value="Pseudomonadales" />
+    <att name="Family" type="string" value="Pseudomonadaceae" />
+    <att name="Genus" type="string" value="Pseudomonas" />
+    <att name="Species" type="string" value="Pseudomonas putida KT2440" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="ppu:PP_4538" />
+    <att name="PATRIC ID" type="string" value="fig|160488.4.peg.4838" />
+    <att name="STRING ID" type="string" value="160488.PP_4538" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="True" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="5.28" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FFFF00" />
+    <att type="string" name="node.fillColor" value="#FFFF00" />
+  </node>
+  <node id="Q88IY3" label="Q88IY3">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Pseudomonas putida  (strain ATCC 47054 / DSM 6125 / NCIMB 11950 / KT2440)" />
+    <att name="Taxonomy ID" type="string" value="160488" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADH:quinone oxidoreductase 1" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADH:quinone oxidoreductase 1" />
+    <att name="Sequence Length" type="integer" value="203" />
+    <att name="Gene Name" type="string" value="azoR1" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:26989585" />
+      <att type="string" name="NCBI IDs" value="GI:81440925" />
+      <att type="string" name="NCBI IDs" value="GI:499256231" />
+      <att type="string" name="NCBI IDs" value="GI:24984465" />
+      <att type="string" name="NCBI IDs" value="GI:554793313" />
+      <att type="string" name="NCBI IDs" value="GI:554793312" />
+      <att type="string" name="NCBI IDs" value="GI:554793311" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAN68474.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_745010.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_010953771.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Gammaproteobacteria" />
+    <att name="Order" type="string" value="Pseudomonadales" />
+    <att name="Family" type="string" value="Pseudomonadaceae" />
+    <att name="Genus" type="string" value="Pseudomonas" />
+    <att name="Species" type="string" value="Pseudomonas putida KT2440" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="4C0W" />
+      <att type="string" name="PDB" value="4C0X" />
+      <att type="string" name="PDB" value="4C14" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.17 5092." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="ppu:PP_2866" />
+    <att name="PATRIC ID" type="string" value="fig|160488.4.peg.3038" />
+    <att name="STRING ID" type="string" value="160488.PP_2866" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="True" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="6.4" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF7621" />
+    <att type="string" name="node.fillColor" value="#FF7621" />
+  </node>
+  <node id="Q8E990" label="Q8E990">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Shewanella oneidensis  (strain MR-1)" />
+    <att name="Taxonomy ID" type="string" value="211586" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADH:quinone oxidoreductase" />
+    <att name="Sequence Length" type="integer" value="198" />
+    <att name="Gene Name" type="string" value="azoR" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:24375876" />
+      <att type="string" name="NCBI IDs" value="GI:24350846" />
+      <att type="string" name="NCBI IDs" value="GI:81458740" />
+      <att type="string" name="NCBI IDs" value="GI:499386578" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAN57363.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_719919.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_011074045.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Gammaproteobacteria" />
+    <att name="Order" type="string" value="Alteromonadales" />
+    <att name="Family" type="string" value="Shewanellaceae" />
+    <att name="Genus" type="string" value="Shewanella" />
+    <att name="Species" type="string" value="Shewanella oneidensis MR-1" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 5706." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0008770 [acyl-carrier-protein] phosphodiesterase activity" />
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="son:SO_4396" />
+    <att name="PATRIC ID" type="string" value="fig|211586.12.peg.4259" />
+    <att name="STRING ID" type="string" value="211586.SO_4396" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="True" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="6" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FFBA10" />
+    <att type="string" name="node.fillColor" value="#FFBA10" />
+  </node>
+  <node id="Q8GKS3" label="Q8GKS3">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Rhodobacter sphaeroides " />
+    <att name="Taxonomy ID" type="string" value="1063" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="Azoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="178" />
+    <att name="Gene Name" type="string" value="None" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:23345125" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAN17400.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Alphaproteobacteria" />
+    <att name="Order" type="string" value="Rhodobacterales" />
+    <att name="Family" type="string" value="Rhodobacteraceae" />
+    <att name="Genus" type="string" value="Cereibacter" />
+    <att name="Species" type="string" value="Cereibacter sphaeroides" />
+    <att name="EC" type="string" value="None" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF03358" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR005025" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 5383." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0016491 oxidoreductase activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="3" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#627649" />
+    <att type="string" name="node.fillColor" value="#627649" />
+  </node>
+  <node id="Q8KU07" label="Q8KU07">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Xenophilus azovorans." />
+    <att name="Taxonomy ID" type="string" value="151755" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="NAD(P)H azoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NAD(P)H azoreductase" />
+    <att name="Sequence Length" type="integer" value="286" />
+    <att name="Gene Name" type="string" value="azoB" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:182698861" />
+      <att type="string" name="NCBI IDs" value="GI:157741651" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAM92125.2" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Betaproteobacteria" />
+    <att name="Order" type="string" value="Burkholderiales" />
+    <att name="Family" type="string" value="Comamonadaceae" />
+    <att name="Genus" type="string" value="Xenophilus" />
+    <att name="Species" type="string" value="Xenophilus azovorans" />
+    <att name="EC" type="string" value="1.7.-.-" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF05368" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR008030" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR036291" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 7792." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0016491 oxidoreductase activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="0" />
+  </node>
+  <node id="Q8RR37" label="Q8RR37">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Geobacillus stearothermophilus " />
+    <att name="Taxonomy ID" type="string" value="1422" />
+    <att name="UniProt Annotation Status" type="string" value="TrEMBL" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="Azoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NA" />
+    <att name="Sequence Length" type="integer" value="174" />
+    <att name="Gene Name" type="string" value="azr" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:19352171" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAB85975.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Geobacillus" />
+    <att name="Species" type="string" value="Geobacillus stearothermophilus" />
+    <att name="EC" type="string" value="None" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF03358" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR005025" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 623." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0016491 oxidoreductase activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="3" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#627649" />
+    <att type="string" name="node.fillColor" value="#627649" />
+  </node>
+  <node id="Q8XM99" label="Q8XM99">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Clostridium perfringens  (strain 13 / Type A)" />
+    <att name="Taxonomy ID" type="string" value="195102" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADH:quinone oxidoreductase 2" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADH:quinone oxidoreductase 2" />
+    <att name="Sequence Length" type="integer" value="198" />
+    <att name="Gene Name" type="string" value="azoR2" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:22001488" />
+      <att type="string" name="NCBI IDs" value="GI:18144451" />
+      <att type="string" name="NCBI IDs" value="GI:499319541" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAB80497.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_011010033.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Clostridia" />
+    <att name="Order" type="string" value="Eubacteriales" />
+    <att name="Family" type="string" value="Clostridiaceae" />
+    <att name="Genus" type="string" value="Clostridium" />
+    <att name="Species" type="string" value="Clostridium perfringens str. 13" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="cpe:CPE0791" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="Not Specified" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="Anaerobe" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="9.37" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF1774" />
+    <att type="string" name="node.fillColor" value="#FF1774" />
+  </node>
+  <node id="Q8XMY2" label="Q8XMY2">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Clostridium perfringens  (strain 13 / Type A)" />
+    <att name="Taxonomy ID" type="string" value="195102" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADH:quinone oxidoreductase 1" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADH:quinone oxidoreductase 1" />
+    <att name="Sequence Length" type="integer" value="218" />
+    <att name="Gene Name" type="string" value="azoR1" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:18144215" />
+      <att type="string" name="NCBI IDs" value="GI:499319397" />
+      <att type="string" name="NCBI IDs" value="GI:22001489" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAB80262.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_011009889.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Clostridia" />
+    <att name="Order" type="string" value="Eubacteriales" />
+    <att name="Family" type="string" value="Clostridiaceae" />
+    <att name="Genus" type="string" value="Clostridium" />
+    <att name="Species" type="string" value="Clostridium perfringens str. 13" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="cpe:CPE0556" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="Not Specified" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="Anaerobe" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="0" />
+  </node>
+  <node id="Q92R45" label="Q92R45">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Rhizobium meliloti  (strain 1021)" />
+    <att name="Taxonomy ID" type="string" value="266834" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="NADPH-dependent FMN reductase ArsH" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NADPH-dependent FMN reductase ArsH" />
+    <att name="Sequence Length" type="integer" value="241" />
+    <att name="Gene Name" type="string" value="SMc02650" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:81634873" />
+      <att type="string" name="NCBI IDs" value="GI:162329986" />
+      <att type="string" name="NCBI IDs" value="GI:162329992" />
+      <att type="string" name="NCBI IDs" value="GI:162329989" />
+      <att type="string" name="NCBI IDs" value="GI:162329991" />
+      <att type="string" name="NCBI IDs" value="GI:162329988" />
+      <att type="string" name="NCBI IDs" value="GI:162329990" />
+      <att type="string" name="NCBI IDs" value="GI:162329987" />
+      <att type="string" name="NCBI IDs" value="GI:15964827" />
+      <att type="string" name="NCBI IDs" value="GI:499271630" />
+      <att type="string" name="NCBI IDs" value="GI:15074006" />
+      <att type="string" name="NCBI IDs" value="GI:162329993" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:CAC45653.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_385180.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_010969023.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Alphaproteobacteria" />
+    <att name="Order" type="string" value="Hyphomicrobiales" />
+    <att name="Family" type="string" value="Rhizobiaceae" />
+    <att name="Genus" type="string" value="Sinorhizobium/Ensifer group" />
+    <att name="Species" type="string" value="Sinorhizobium meliloti 1021" />
+    <att name="EC" type="string" value="1.-.-.- {ECO:0000269|PubMed:17673204}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF03358" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="2Q62" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR005025" />
+    <att name="InterPro (Family)" type="string" value="IPR014063" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0052873 FMN reductase (NADPH) activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="sme:SMc02650" />
+    <att name="PATRIC ID" type="string" value="fig|266834.11.peg.2480" />
+    <att name="STRING ID" type="string" value="266834.SMc02650" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="True" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="2" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#14326E" />
+    <att type="string" name="node.fillColor" value="#14326E" />
+  </node>
+  <node id="Q9FAW5" label="Q9FAW5">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Bacillus sp.  (strain OY1-2)" />
+    <att name="Taxonomy ID" type="string" value="104667" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="NADPH azoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="NADPH azoreductase" />
+    <att name="Sequence Length" type="integer" value="178" />
+    <att name="Gene Name" type="string" value="azr" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:10281002" />
+      <att type="string" name="NCBI IDs" value="GI:75414036" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:BAB13746.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Bacillus" />
+    <att name="Species" type="string" value="Bacillus sp. OY1-2" />
+    <att name="EC" type="string" value="1.7.1.6" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF03358" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR005025" />
+    <att name="InterPro (Family)" type="string" value="None" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 691." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0050446 azobenzene reductase activity" />
+    </att>
+    <att name="KEGG ID" type="string" value="ag:BAB13746" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="3" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#627649" />
+    <att type="string" name="node.fillColor" value="#627649" />
+  </node>
+  <node id="Q9HZ17" label="Q9HZ17">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Pseudomonas aeruginosa  (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM14847 / LMG 12228 / 1C / PRS 101 / PAO1)" />
+    <att name="Taxonomy ID" type="string" value="208964" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADH:quinone oxidoreductase 3" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADH:quinone oxidoreductase 3" />
+    <att name="Sequence Length" type="integer" value="213" />
+    <att name="Gene Name" type="string" value="PA3223" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:489205775" />
+      <att type="string" name="NCBI IDs" value="GI:9949344" />
+      <att type="string" name="NCBI IDs" value="GI:22001506" />
+      <att type="string" name="NCBI IDs" value="GI:15598419" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAG06611.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_251913.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_003114814.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Gammaproteobacteria" />
+    <att name="Order" type="string" value="Pseudomonadales" />
+    <att name="Family" type="string" value="Pseudomonadaceae" />
+    <att name="Genus" type="string" value="Pseudomonas" />
+    <att name="Species" type="string" value="Pseudomonas aeruginosa PAO1" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216, ECO:0000269|PubMed:20417637}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="None" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="pae:PA3223" />
+    <att name="PATRIC ID" type="string" value="fig|208964.12.peg.3370" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="Not Specified" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="Aerobe" />
+    <att name="P01 gDNA" type="string" value="True" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="5.28" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FFFF00" />
+    <att type="string" name="node.fillColor" value="#FFFF00" />
+  </node>
+  <node id="Q9I5F3" label="Q9I5F3">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Pseudomonas aeruginosa  (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM14847 / LMG 12228 / 1C / PRS 101 / PAO1)" />
+    <att name="Taxonomy ID" type="string" value="208964" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NAD(P)H:quinone oxidoreductase 1" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NAD(P)H:quinone oxidoreductase 1" />
+    <att name="Sequence Length" type="integer" value="212" />
+    <att name="Gene Name" type="string" value="PA0785" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:489205134" />
+      <att type="string" name="NCBI IDs" value="GI:9946675" />
+      <att type="string" name="NCBI IDs" value="GI:22001508" />
+      <att type="string" name="NCBI IDs" value="GI:651207674" />
+      <att type="string" name="NCBI IDs" value="GI:295982420" />
+      <att type="string" name="NCBI IDs" value="GI:344189682" />
+      <att type="string" name="NCBI IDs" value="GI:651207672" />
+      <att type="string" name="NCBI IDs" value="GI:344189681" />
+      <att type="string" name="NCBI IDs" value="GI:283807191" />
+      <att type="string" name="NCBI IDs" value="GI:651207671" />
+      <att type="string" name="NCBI IDs" value="GI:283807190" />
+      <att type="string" name="NCBI IDs" value="GI:160286140" />
+      <att type="string" name="NCBI IDs" value="GI:295982421" />
+      <att type="string" name="NCBI IDs" value="GI:160286141" />
+      <att type="string" name="NCBI IDs" value="GI:651207673" />
+      <att type="string" name="NCBI IDs" value="GI:15595982" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAG04174.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:NP_249476.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_003114189.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="NA" />
+    <att name="Phylum" type="string" value="Proteobacteria" />
+    <att name="Class" type="string" value="Gammaproteobacteria" />
+    <att name="Order" type="string" value="Pseudomonadales" />
+    <att name="Family" type="string" value="Pseudomonadaceae" />
+    <att name="Genus" type="string" value="Pseudomonas" />
+    <att name="Species" type="string" value="Pseudomonas aeruginosa PAO1" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="2V9C" />
+      <att type="string" name="PDB" value="3KEG" />
+      <att type="string" name="PDB" value="3LT5" />
+      <att type="string" name="PDB" value="3R6W" />
+      <att type="string" name="PDB" value="4N65" />
+      <att type="string" name="PDB" value="4N9Q" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.6 5087." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0003960 NADPH:quinone reductase activity" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="pae:PA0785" />
+    <att name="PATRIC ID" type="string" value="fig|208964.12.peg.816" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="Not Specified" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="Aerobe" />
+    <att name="P01 gDNA" type="string" value="True" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="7" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF3232" />
+    <att type="string" name="node.fillColor" value="#FF3232" />
+  </node>
+  <node id="Q9X4K2" label="Q9X4K2">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="Geobacillus stearothermophilus " />
+    <att name="Taxonomy ID" type="string" value="1422" />
+    <att name="UniProt Annotation Status" type="string" value="SwissProt" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="FMN-dependent NADH:quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="FMN-dependent NADH:quinone oxidoreductase" />
+    <att name="Sequence Length" type="integer" value="211" />
+    <att name="Gene Name" type="string" value="azoR" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="GI:22001514" />
+      <att type="string" name="NCBI IDs" value="GI:696475725" />
+      <att type="string" name="NCBI IDs" value="EMBL-CDS:AAD24436.1" />
+      <att type="string" name="NCBI IDs" value="REFSEQ:WP_033015399.1" />
+    </att>
+    <att name="Superkingdom" type="string" value="Bacteria" />
+    <att name="Kingdom" type="string" value="Terrabacteria group" />
+    <att name="Phylum" type="string" value="Firmicutes" />
+    <att name="Class" type="string" value="Bacilli" />
+    <att name="Order" type="string" value="Bacillales" />
+    <att name="Family" type="string" value="Bacillaceae" />
+    <att name="Genus" type="string" value="Geobacillus" />
+    <att name="Species" type="string" value="Geobacillus stearothermophilus" />
+    <att name="EC" type="string" value="1.7.1.17 {ECO:0000255|HAMAP-Rule:MF_01216}" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="PF02525" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="None" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="IPR003680" />
+    <att name="InterPro (Family)" type="string" value="IPR023048" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="IPR029039" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="None" />
+    </att>
+    <att name="BRENDA ID" type="string" value="1.7.1.17 623.,1.7.1.6 623." />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="None" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="0009055 electron transfer activity" />
+      <att type="string" name="GO Term" value="0010181 FMN binding" />
+      <att type="string" name="GO Term" value="0016652 oxidoreductase activity  acting on NAD(P)H  NAD(P) as acceptor" />
+      <att type="string" name="GO Term" value="0016655 oxidoreductase activity  acting on NAD(P)H  quinone or similar compound as acceptor" />
+    </att>
+    <att name="KEGG ID" type="string" value="None" />
+    <att name="PATRIC ID" type="string" value="None" />
+    <att name="STRING ID" type="string" value="None" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="None" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="None" />
+    <att name="P01 gDNA" type="string" value="False" />
+    <att name="Sequence" type="string" value="" />
+    <att name="Sequence Status" type="string" value="complete" />
+    <att type="real" name="Neighborhood Connectivity" value="9" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#FF2453" />
+    <att type="string" name="node.fillColor" value="#FF2453" />
+  </node>
+  <node id="zzzzz37" label="zzzzz37">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="" />
+    <att name="Taxonomy ID" type="string" value="" />
+    <att name="UniProt Annotation Status" type="string" value="" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="PA1204|p_aeruginosa_PAO1|PGDB NAD(P)H quinone oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="" />
+    <att name="Sequence Length" type="integer" value="185" />
+    <att name="Gene Name" type="string" value="" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="" />
+    </att>
+    <att name="Superkingdom" type="string" value="" />
+    <att name="Kingdom" type="string" value="" />
+    <att name="Phylum" type="string" value="" />
+    <att name="Class" type="string" value="" />
+    <att name="Order" type="string" value="" />
+    <att name="Family" type="string" value="" />
+    <att name="Genus" type="string" value="" />
+    <att name="Species" type="string" value="" />
+    <att name="EC" type="string" value="" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="" />
+    <att name="InterPro (Family)" type="string" value="" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="" />
+    </att>
+    <att name="BRENDA ID" type="string" value="" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="" />
+    </att>
+    <att name="KEGG ID" type="string" value="" />
+    <att name="PATRIC ID" type="string" value="" />
+    <att name="STRING ID" type="string" value="" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="" />
+    <att name="P01 gDNA" type="string" value="" />
+    <att name="Sequence" type="string" value="MSDDIKVLGISGSLRSGSYNSAALQEAIGLVPPGMSIELADISGIPLYNEDVYALGFPPAVERFREQIRAADALLFATPEYNYSMAGVLKNAIDWASRPPEQPFSGKPAAILGASAGRFGTARAQYHLRQTLVFLDVHPLNKPEVMISSAQNAFDAQGRLLDDKARELIQQQLQALQLWVRRLRG" />
+    <att name="Sequence Status" type="string" value="" />
+    <att type="real" name="Neighborhood Connectivity" value="1" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#14326E" />
+    <att type="string" name="node.fillColor" value="#14326E" />
+  </node>
+  <node id="zzzzz38" label="zzzzz38">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="" />
+    <att name="Taxonomy ID" type="string" value="" />
+    <att name="UniProt Annotation Status" type="string" value="" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="PA2280|p_aeruginosa_PAO1|PGDB oxidoreductase" />
+    </att>
+    <att name="Swissprot Description" type="string" value="" />
+    <att name="Sequence Length" type="integer" value="230" />
+    <att name="Gene Name" type="string" value="" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="" />
+    </att>
+    <att name="Superkingdom" type="string" value="" />
+    <att name="Kingdom" type="string" value="" />
+    <att name="Phylum" type="string" value="" />
+    <att name="Class" type="string" value="" />
+    <att name="Order" type="string" value="" />
+    <att name="Family" type="string" value="" />
+    <att name="Genus" type="string" value="" />
+    <att name="Species" type="string" value="" />
+    <att name="EC" type="string" value="" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="" />
+    <att name="InterPro (Family)" type="string" value="" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="" />
+    </att>
+    <att name="BRENDA ID" type="string" value="" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="" />
+    </att>
+    <att name="KEGG ID" type="string" value="" />
+    <att name="PATRIC ID" type="string" value="" />
+    <att name="STRING ID" type="string" value="" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="" />
+    <att name="P01 gDNA" type="string" value="" />
+    <att name="Sequence" type="string" value="MSEQLPNLDPALLGDPPPVSGHRPRILLLYGSTRERSFSRLLVLEAARLLERFGAETRIFDPSGLPLPDDAPVEHPKVRELRDLVQWSEGQVWCSPERHGALSAVFKAQIDWIPLALGAVRPTQGKTLALMQVCGGSQSFNVVNQLRVLGRWMRMFTIPNQSSVPKAYLEFDEAGRMKPSPYYDRVVDVMEELFKFTLLLRERTDFLVDRYSERKESAEQLSARVDQRSL " />
+    <att name="Sequence Status" type="string" value="" />
+    <att type="real" name="Neighborhood Connectivity" value="2" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#14326E" />
+    <att type="string" name="node.fillColor" value="#14326E" />
+  </node>
+  <node id="zzzzz39" label="zzzzz39">
+    <att name="Sequence Source" type="string" value="USER" />
+    <att type="list" name="Other IDs">
+      <att type="string" name="Other IDs" value="None" />
+    </att>
+    <att name="Organism" type="string" value="" />
+    <att name="Taxonomy ID" type="string" value="" />
+    <att name="UniProt Annotation Status" type="string" value="" />
+    <att type="list" name="Description">
+      <att type="string" name="Description" value="PA2580|p_aeruginosa_PAO1|PGDB conserved hypothetical protein" />
+    </att>
+    <att name="Swissprot Description" type="string" value="" />
+    <att name="Sequence Length" type="integer" value="196" />
+    <att name="Gene Name" type="string" value="" />
+    <att type="list" name="NCBI IDs">
+      <att type="string" name="NCBI IDs" value="" />
+    </att>
+    <att name="Superkingdom" type="string" value="" />
+    <att name="Kingdom" type="string" value="" />
+    <att name="Phylum" type="string" value="" />
+    <att name="Class" type="string" value="" />
+    <att name="Order" type="string" value="" />
+    <att name="Family" type="string" value="" />
+    <att name="Genus" type="string" value="" />
+    <att name="Species" type="string" value="" />
+    <att name="EC" type="string" value="" />
+    <att type="list" name="PFAM">
+      <att type="string" name="PFAM" value="" />
+    </att>
+    <att type="list" name="PDB">
+      <att type="string" name="PDB" value="" />
+    </att>
+    <att name="InterPro (Domain)" type="string" value="" />
+    <att name="InterPro (Family)" type="string" value="" />
+    <att name="InterPro (Homologous Superfamily)" type="string" value="" />
+    <att type="list" name="InterPro (Other)">
+      <att type="string" name="InterPro (Other)" value="" />
+    </att>
+    <att name="BRENDA ID" type="string" value="" />
+    <att type="list" name="CAZY Name">
+      <att type="string" name="CAZY Name" value="" />
+    </att>
+    <att type="list" name="GO Term">
+      <att type="string" name="GO Term" value="" />
+    </att>
+    <att name="KEGG ID" type="string" value="" />
+    <att name="PATRIC ID" type="string" value="" />
+    <att name="STRING ID" type="string" value="" />
+    <att type="list" name="HMP Body Site">
+      <att type="string" name="HMP Body Site" value="" />
+    </att>
+    <att name="HMP Oxygen" type="string" value="" />
+    <att name="P01 gDNA" type="string" value="" />
+    <att name="Sequence" type="string" value="MKNILLLNGGKRFAHSDGRLNQTLHETALAHLDRRGFDLRQTFIDGGYDIPTEVDKFLWADVVIYQMPGWWMGAPWTVKRYIDEVFTAGHGSLYANDGRTRSDSTQKYGSGGLVQGKRYMISATWNAPRQAFDDPSDFFEGKGVDAVYFPFHKANQFLGMSGLPTFLAVDVMKRPDVPATVAAYQAHLDRVFGRAG" />
+    <att name="Sequence Status" type="string" value="" />
+    <att type="real" name="Neighborhood Connectivity" value="1" />
+    <att type="string" name="Neighborhood Connectivity Color" value="#14326E" />
+    <att type="string" name="node.fillColor" value="#14326E" />
+  </node>
+  <edge source="A0A073KHN9" target="Q8E990" label="A0A073KHN9,Q8E990" id="A0A073KHN9,Q8E990">
+    <att name="%id" type="real" value="97.98" />
+    <att name="alignment_score" type="real" value="114" />
+    <att name="alignment_len" type="integer" value="198" />
+  </edge>
+  <edge source="D0EFL2" target="Q50H63" label="D0EFL2,Q50H63" id="D0EFL2,Q50H63">
+    <att name="%id" type="real" value="100.00" />
+    <att name="alignment_score" type="real" value="111" />
+    <att name="alignment_len" type="integer" value="188" />
+  </edge>
+  <edge target="Q9X4K2" source="O32224" id="O32224,Q9X4K2" label="O32224,Q9X4K2">
+    <att name="%id" type="real" value="74.88" />
+    <att name="alignment_score" type="real" value="99" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge source="Q92R45" target="zzzzz38" label="Q92R45,zzzzz38" id="Q92R45,zzzzz38">
+    <att name="%id" type="real" value="72.43" />
+    <att name="alignment_score" type="real" value="88" />
+    <att name="alignment_len" type="integer" value="214" />
+  </edge>
+  <edge label="O07529,Q8RR37" id="O07529,Q8RR37" source="O07529" target="Q8RR37">
+    <att name="%id" type="real" value="98.28" />
+    <att name="alignment_score" type="real" value="87" />
+    <att name="alignment_len" type="integer" value="174" />
+  </edge>
+  <edge label="O35022,Q0WXX2" id="O35022,Q0WXX2" source="O35022" target="Q0WXX2">
+    <att name="%id" type="real" value="67.31" />
+    <att name="alignment_score" type="real" value="87" />
+    <att name="alignment_len" type="integer" value="208" />
+  </edge>
+  <edge id="Q7UC03,Q92R45" label="Q7UC03,Q92R45" target="Q92R45" source="Q7UC03">
+    <att name="%id" type="real" value="63.33" />
+    <att name="alignment_score" type="real" value="84" />
+    <att name="alignment_len" type="integer" value="240" />
+  </edge>
+  <edge label="Q7UC03,zzzzz38" id="Q7UC03,zzzzz38" source="Q7UC03" target="zzzzz38">
+    <att name="%id" type="real" value="66.06" />
+    <att name="alignment_score" type="real" value="83" />
+    <att name="alignment_len" type="integer" value="221" />
+  </edge>
+  <edge label="Q8GKS3,Q9FAW5" id="Q8GKS3,Q9FAW5" source="Q8GKS3" target="Q9FAW5">
+    <att name="%id" type="real" value="97.19" />
+    <att name="alignment_score" type="real" value="84" />
+    <att name="alignment_len" type="integer" value="178" />
+  </edge>
+  <edge target="Q0WXX2" source="A0A166B8K4" id="A0A166B8K4,Q0WXX2" label="A0A166B8K4,Q0WXX2">
+    <att name="%id" type="real" value="64.42" />
+    <att name="alignment_score" type="real" value="81" />
+    <att name="alignment_len" type="integer" value="208" />
+  </edge>
+  <edge target="O35022" source="A0A166B8K4" id="A0A166B8K4,O35022" label="A0A166B8K4,O35022">
+    <att name="%id" type="real" value="60.58" />
+    <att name="alignment_score" type="real" value="79" />
+    <att name="alignment_len" type="integer" value="208" />
+  </edge>
+  <edge id="Q88EC8,Q9HZ17" label="Q88EC8,Q9HZ17" target="Q9HZ17" source="Q88EC8">
+    <att name="%id" type="real" value="67.18" />
+    <att name="alignment_score" type="real" value="79" />
+    <att name="alignment_len" type="integer" value="195" />
+  </edge>
+  <edge target="O35022" source="C0STY0" id="C0STY0,O35022" label="C0STY0,O35022">
+    <att name="%id" type="real" value="61.06" />
+    <att name="alignment_score" type="real" value="76" />
+    <att name="alignment_len" type="integer" value="208" />
+  </edge>
+  <edge id="P0AEY5,zzzzz39" label="P0AEY5,zzzzz39" target="zzzzz39" source="P0AEY5">
+    <att name="%id" type="real" value="64.25" />
+    <att name="alignment_score" type="real" value="75" />
+    <att name="alignment_len" type="integer" value="193" />
+  </edge>
+  <edge source="H0U8Q1" target="O32224" label="H0U8Q1,O32224" id="H0U8Q1,O32224">
+    <att name="%id" type="real" value="56.40" />
+    <att name="alignment_score" type="real" value="74" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge target="C0STY0" source="A0A166B8K4" id="A0A166B8K4,C0STY0" label="A0A166B8K4,C0STY0">
+    <att name="%id" type="real" value="61.54" />
+    <att name="alignment_score" type="real" value="72" />
+    <att name="alignment_len" type="integer" value="208" />
+  </edge>
+  <edge target="O32224" source="C0STY1" id="C0STY1,O32224" label="C0STY1,O32224">
+    <att name="%id" type="real" value="56.40" />
+    <att name="alignment_score" type="real" value="70" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge target="Q0WXX2" source="C0STY0" id="C0STY0,Q0WXX2" label="C0STY0,Q0WXX2">
+    <att name="%id" type="real" value="61.06" />
+    <att name="alignment_score" type="real" value="70" />
+    <att name="alignment_len" type="integer" value="208" />
+  </edge>
+  <edge label="H0U8Q1,Q9X4K2" id="H0U8Q1,Q9X4K2" source="H0U8Q1" target="Q9X4K2">
+    <att name="%id" type="real" value="57.82" />
+    <att name="alignment_score" type="real" value="69" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge source="P41407" target="Q8E990" label="P41407,Q8E990" id="P41407,Q8E990">
+    <att name="%id" type="real" value="64.32" />
+    <att name="alignment_score" type="real" value="69" />
+    <att name="alignment_len" type="integer" value="199" />
+  </edge>
+  <edge id="A0A073KHN9,P41407" label="A0A073KHN9,P41407" target="P41407" source="A0A073KHN9">
+    <att name="%id" type="real" value="62.31" />
+    <att name="alignment_score" type="real" value="69" />
+    <att name="alignment_len" type="integer" value="199" />
+  </edge>
+  <edge id="C0STY1,H0U8Q1" label="C0STY1,H0U8Q1" target="H0U8Q1" source="C0STY1">
+    <att name="%id" type="real" value="58.29" />
+    <att name="alignment_score" type="real" value="68" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge source="C0STY1" target="Q9X4K2" label="C0STY1,Q9X4K2" id="C0STY1,Q9X4K2">
+    <att name="%id" type="real" value="56.40" />
+    <att name="alignment_score" type="real" value="63" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge id="O32224,Q831B2" label="O32224,Q831B2" target="Q831B2" source="O32224">
+    <att name="%id" type="real" value="44.13" />
+    <att name="alignment_score" type="real" value="55" />
+    <att name="alignment_len" type="integer" value="213" />
+  </edge>
+  <edge label="P41407,Q88EC8" id="P41407,Q88EC8" source="P41407" target="Q88EC8">
+    <att name="%id" type="real" value="48.48" />
+    <att name="alignment_score" type="real" value="53" />
+    <att name="alignment_len" type="integer" value="198" />
+  </edge>
+  <edge label="Q831B2,Q9X4K2" id="Q831B2,Q9X4K2" source="Q831B2" target="Q9X4K2">
+    <att name="%id" type="real" value="43.19" />
+    <att name="alignment_score" type="real" value="52" />
+    <att name="alignment_len" type="integer" value="213" />
+  </edge>
+  <edge label="D5HN83,Q6YAN1" id="D5HN83,Q6YAN1" source="D5HN83" target="Q6YAN1">
+    <att name="%id" type="real" value="60.59" />
+    <att name="alignment_score" type="real" value="51" />
+    <att name="alignment_len" type="integer" value="203" />
+  </edge>
+  <edge source="A0A166B8K4" target="O32224" label="A0A166B8K4,O32224" id="A0A166B8K4,O32224">
+    <att name="%id" type="real" value="42.65" />
+    <att name="alignment_score" type="real" value="51" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge label="O32224,Q0WXX2" id="O32224,Q0WXX2" source="O32224" target="Q0WXX2">
+    <att name="%id" type="real" value="44.08" />
+    <att name="alignment_score" type="real" value="51" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge target="Q831B2" source="H0U8Q1" id="H0U8Q1,Q831B2" label="H0U8Q1,Q831B2">
+    <att name="%id" type="real" value="43.19" />
+    <att name="alignment_score" type="real" value="50" />
+    <att name="alignment_len" type="integer" value="213" />
+  </edge>
+  <edge target="O35022" source="C0STY1" id="C0STY1,O35022" label="C0STY1,O35022">
+    <att name="%id" type="real" value="44.08" />
+    <att name="alignment_score" type="real" value="49" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge label="O32224,O35022" id="O32224,O35022" source="O32224" target="O35022">
+    <att name="%id" type="real" value="41.71" />
+    <att name="alignment_score" type="real" value="49" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge label="P41407,Q9HZ17" id="P41407,Q9HZ17" source="P41407" target="Q9HZ17">
+    <att name="%id" type="real" value="48.70" />
+    <att name="alignment_score" type="real" value="49" />
+    <att name="alignment_len" type="integer" value="193" />
+  </edge>
+  <edge label="C0STY1,Q831B2" id="C0STY1,Q831B2" source="C0STY1" target="Q831B2">
+    <att name="%id" type="real" value="40.38" />
+    <att name="alignment_score" type="real" value="48" />
+    <att name="alignment_len" type="integer" value="213" />
+  </edge>
+  <edge source="Q0WXX2" target="Q9X4K2" label="Q0WXX2,Q9X4K2" id="Q0WXX2,Q9X4K2">
+    <att name="%id" type="real" value="45.26" />
+    <att name="alignment_score" type="real" value="47" />
+    <att name="alignment_len" type="integer" value="190" />
+  </edge>
+  <edge target="Q9X4K2" source="O35022" id="O35022,Q9X4K2" label="O35022,Q9X4K2">
+    <att name="%id" type="real" value="38.86" />
+    <att name="alignment_score" type="real" value="46" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge source="Q88EC8" target="Q8E990" label="Q88EC8,Q8E990" id="Q88EC8,Q8E990">
+    <att name="%id" type="real" value="44.50" />
+    <att name="alignment_score" type="real" value="46" />
+    <att name="alignment_len" type="integer" value="200" />
+  </edge>
+  <edge source="A0A166B8K4" target="Q9X4K2" label="A0A166B8K4,Q9X4K2" id="A0A166B8K4,Q9X4K2">
+    <att name="%id" type="real" value="41.23" />
+    <att name="alignment_score" type="real" value="46" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge target="Q88EC8" source="A0A1W6D7D8" id="A0A1W6D7D8,Q88EC8" label="A0A1W6D7D8,Q88EC8">
+    <att name="%id" type="real" value="44.44" />
+    <att name="alignment_score" type="real" value="46" />
+    <att name="alignment_len" type="integer" value="198" />
+  </edge>
+  <edge source="A0A073KHN9" target="Q88EC8" label="A0A073KHN9,Q88EC8" id="A0A073KHN9,Q88EC8">
+    <att name="%id" type="real" value="44.00" />
+    <att name="alignment_score" type="real" value="45" />
+    <att name="alignment_len" type="integer" value="200" />
+  </edge>
+  <edge id="A0A166B8K4,H0U8Q1" label="A0A166B8K4,H0U8Q1" target="H0U8Q1" source="A0A166B8K4">
+    <att name="%id" type="real" value="42.11" />
+    <att name="alignment_score" type="real" value="45" />
+    <att name="alignment_len" type="integer" value="190" />
+  </edge>
+  <edge id="O35022,Q8XM99" label="O35022,Q8XM99" target="Q8XM99" source="O35022">
+    <att name="%id" type="real" value="40.38" />
+    <att name="alignment_score" type="real" value="45" />
+    <att name="alignment_len" type="integer" value="208" />
+  </edge>
+  <edge source="Q8E990" target="Q9HZ17" label="Q8E990,Q9HZ17" id="Q8E990,Q9HZ17">
+    <att name="%id" type="real" value="42.93" />
+    <att name="alignment_score" type="real" value="45" />
+    <att name="alignment_len" type="integer" value="198" />
+  </edge>
+  <edge target="Q9HZ17" source="A0A073KHN9" id="A0A073KHN9,Q9HZ17" label="A0A073KHN9,Q9HZ17">
+    <att name="%id" type="real" value="42.93" />
+    <att name="alignment_score" type="real" value="45" />
+    <att name="alignment_len" type="integer" value="198" />
+  </edge>
+  <edge id="H0U8Q1,Q8XM99" label="H0U8Q1,Q8XM99" target="Q8XM99" source="H0U8Q1">
+    <att name="%id" type="real" value="39.81" />
+    <att name="alignment_score" type="real" value="44" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge label="A0A1W6D7D8,P41407" id="A0A1W6D7D8,P41407" source="A0A1W6D7D8" target="P41407">
+    <att name="%id" type="real" value="45.18" />
+    <att name="alignment_score" type="real" value="44" />
+    <att name="alignment_len" type="integer" value="197" />
+  </edge>
+  <edge label="A0A1W6D7D8,Q9HZ17" id="A0A1W6D7D8,Q9HZ17" source="A0A1W6D7D8" target="Q9HZ17">
+    <att name="%id" type="real" value="43.75" />
+    <att name="alignment_score" type="real" value="44" />
+    <att name="alignment_len" type="integer" value="192" />
+  </edge>
+  <edge id="A0A2S5CVK5,O35022" label="A0A2S5CVK5,O35022" target="O35022" source="A0A2S5CVK5">
+    <att name="%id" type="real" value="43.63" />
+    <att name="alignment_score" type="real" value="44" />
+    <att name="alignment_len" type="integer" value="204" />
+  </edge>
+  <edge label="O32224,Q8XM99" id="O32224,Q8XM99" source="O32224" target="Q8XM99">
+    <att name="%id" type="real" value="39.34" />
+    <att name="alignment_score" type="real" value="44" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge id="Q8XM99,Q9X4K2" label="Q8XM99,Q9X4K2" target="Q9X4K2" source="Q8XM99">
+    <att name="%id" type="real" value="43.54" />
+    <att name="alignment_score" type="real" value="44" />
+    <att name="alignment_len" type="integer" value="209" />
+  </edge>
+  <edge target="Q8XM99" source="A0A166B8K4" id="A0A166B8K4,Q8XM99" label="A0A166B8K4,Q8XM99">
+    <att name="%id" type="real" value="38.94" />
+    <att name="alignment_score" type="real" value="43" />
+    <att name="alignment_len" type="integer" value="208" />
+  </edge>
+  <edge label="A0A1W6D7D8,Q8E990" id="A0A1W6D7D8,Q8E990" source="A0A1W6D7D8" target="Q8E990">
+    <att name="%id" type="real" value="43.88" />
+    <att name="alignment_score" type="real" value="43" />
+    <att name="alignment_len" type="integer" value="196" />
+  </edge>
+  <edge target="Q0WXX2" source="H0U8Q1" id="H0U8Q1,Q0WXX2" label="H0U8Q1,Q0WXX2">
+    <att name="%id" type="real" value="43.08" />
+    <att name="alignment_score" type="real" value="43" />
+    <att name="alignment_len" type="integer" value="195" />
+  </edge>
+  <edge target="O35022" source="H0U8Q1" id="H0U8Q1,O35022" label="H0U8Q1,O35022">
+    <att name="%id" type="real" value="36.49" />
+    <att name="alignment_score" type="real" value="42" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge id="A0A073KHN9,A0A1W6D7D8" label="A0A073KHN9,A0A1W6D7D8" target="A0A1W6D7D8" source="A0A073KHN9">
+    <att name="%id" type="real" value="43.15" />
+    <att name="alignment_score" type="real" value="42" />
+    <att name="alignment_len" type="integer" value="197" />
+  </edge>
+  <edge target="Q8GKS3" source="O07529" id="O07529,Q8GKS3" label="O07529,Q8GKS3">
+    <att name="%id" type="real" value="58.43" />
+    <att name="alignment_score" type="real" value="42" />
+    <att name="alignment_len" type="integer" value="166" />
+  </edge>
+  <edge source="A0A166B8K4" target="C0STY1" label="A0A166B8K4,C0STY1" id="A0A166B8K4,C0STY1">
+    <att name="%id" type="real" value="38.86" />
+    <att name="alignment_score" type="real" value="42" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge source="Q8GKS3" target="Q8RR37" label="Q8GKS3,Q8RR37" id="Q8GKS3,Q8RR37">
+    <att name="%id" type="real" value="58.43" />
+    <att name="alignment_score" type="real" value="42" />
+    <att name="alignment_len" type="integer" value="166" />
+  </edge>
+  <edge target="Q0WXX2" source="A0A2S5CVK5" id="A0A2S5CVK5,Q0WXX2" label="A0A2S5CVK5,Q0WXX2">
+    <att name="%id" type="real" value="48.53" />
+    <att name="alignment_score" type="real" value="41" />
+    <att name="alignment_len" type="integer" value="204" />
+  </edge>
+  <edge label="P0AGE6,zzzzz37" id="P0AGE6,zzzzz37" source="P0AGE6" target="zzzzz37">
+    <att name="%id" type="real" value="45.99" />
+    <att name="alignment_score" type="real" value="41" />
+    <att name="alignment_len" type="integer" value="187" />
+  </edge>
+  <edge source="Q0WXX2" target="Q8XM99" label="Q0WXX2,Q8XM99" id="Q0WXX2,Q8XM99">
+    <att name="%id" type="real" value="38.46" />
+    <att name="alignment_score" type="real" value="41" />
+    <att name="alignment_len" type="integer" value="208" />
+  </edge>
+  <edge id="C0STY0,O32224" label="C0STY0,O32224" target="O32224" source="C0STY0">
+    <att name="%id" type="real" value="37.56" />
+    <att name="alignment_score" type="real" value="41" />
+    <att name="alignment_len" type="integer" value="213" />
+  </edge>
+  <edge source="Q88EC8" target="Q88IY3" label="Q88EC8,Q88IY3" id="Q88EC8,Q88IY3">
+    <att name="%id" type="real" value="41.44" />
+    <att name="alignment_score" type="real" value="40" />
+    <att name="alignment_len" type="integer" value="181" />
+  </edge>
+  <edge id="A0A166B8K4,A0A2S5CVK5" label="A0A166B8K4,A0A2S5CVK5" target="A0A2S5CVK5" source="A0A166B8K4">
+    <att name="%id" type="real" value="40.87" />
+    <att name="alignment_score" type="real" value="40" />
+    <att name="alignment_len" type="integer" value="208" />
+  </edge>
+  <edge id="A0A2S5CVK5,C0STY0" label="A0A2S5CVK5,C0STY0" target="C0STY0" source="A0A2S5CVK5">
+    <att name="%id" type="real" value="45.10" />
+    <att name="alignment_score" type="real" value="39" />
+    <att name="alignment_len" type="integer" value="204" />
+  </edge>
+  <edge source="C0STY1" target="Q8XM99" label="C0STY1,Q8XM99" id="C0STY1,Q8XM99">
+    <att name="%id" type="real" value="36.97" />
+    <att name="alignment_score" type="real" value="39" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge label="P41407,Q88IY3" id="P41407,Q88IY3" source="P41407" target="Q88IY3">
+    <att name="%id" type="real" value="47.25" />
+    <att name="alignment_score" type="real" value="39" />
+    <att name="alignment_len" type="integer" value="182" />
+  </edge>
+  <edge id="A0A166B8K4,Q831B2" label="A0A166B8K4,Q831B2" target="Q831B2" source="A0A166B8K4">
+    <att name="%id" type="real" value="38.50" />
+    <att name="alignment_score" type="real" value="39" />
+    <att name="alignment_len" type="integer" value="213" />
+  </edge>
+  <edge label="C0STY1,Q0WXX2" id="C0STY1,Q0WXX2" source="C0STY1" target="Q0WXX2">
+    <att name="%id" type="real" value="41.58" />
+    <att name="alignment_score" type="real" value="39" />
+    <att name="alignment_len" type="integer" value="190" />
+  </edge>
+  <edge label="O07529,Q9FAW5" id="O07529,Q9FAW5" source="O07529" target="Q9FAW5">
+    <att name="%id" type="real" value="56.02" />
+    <att name="alignment_score" type="real" value="39" />
+    <att name="alignment_len" type="integer" value="166" />
+  </edge>
+  <edge source="Q8RR37" target="Q9FAW5" label="Q8RR37,Q9FAW5" id="Q8RR37,Q9FAW5">
+    <att name="%id" type="real" value="56.02" />
+    <att name="alignment_score" type="real" value="39" />
+    <att name="alignment_len" type="integer" value="166" />
+  </edge>
+  <edge label="Q0WXX2,Q831B2" id="Q0WXX2,Q831B2" source="Q0WXX2" target="Q831B2">
+    <att name="%id" type="real" value="36.62" />
+    <att name="alignment_score" type="real" value="38" />
+    <att name="alignment_len" type="integer" value="213" />
+  </edge>
+  <edge target="H0U8Q1" source="C0STY0" id="C0STY0,H0U8Q1" label="C0STY0,H0U8Q1">
+    <att name="%id" type="real" value="39.47" />
+    <att name="alignment_score" type="real" value="38" />
+    <att name="alignment_len" type="integer" value="190" />
+  </edge>
+  <edge target="Q9I5F3" source="Q88EC8" id="Q88EC8,Q9I5F3" label="Q88EC8,Q9I5F3">
+    <att name="%id" type="real" value="36.92" />
+    <att name="alignment_score" type="real" value="38" />
+    <att name="alignment_len" type="integer" value="214" />
+  </edge>
+  <edge label="O35022,Q831B2" id="O35022,Q831B2" source="O35022" target="Q831B2">
+    <att name="%id" type="real" value="35.68" />
+    <att name="alignment_score" type="real" value="36" />
+    <att name="alignment_len" type="integer" value="213" />
+  </edge>
+  <edge id="C0STY0,Q8XM99" label="C0STY0,Q8XM99" target="Q8XM99" source="C0STY0">
+    <att name="%id" type="real" value="38.57" />
+    <att name="alignment_score" type="real" value="36" />
+    <att name="alignment_len" type="integer" value="210" />
+  </edge>
+  <edge target="Q9HZ17" source="Q88IY3" id="Q88IY3,Q9HZ17" label="Q88IY3,Q9HZ17">
+    <att name="%id" type="real" value="40.76" />
+    <att name="alignment_score" type="real" value="36" />
+    <att name="alignment_len" type="integer" value="184" />
+  </edge>
+  <edge source="A0A073KHN9" target="Q88IY3" label="A0A073KHN9,Q88IY3" id="A0A073KHN9,Q88IY3">
+    <att name="%id" type="real" value="45.05" />
+    <att name="alignment_score" type="real" value="35" />
+    <att name="alignment_len" type="integer" value="182" />
+  </edge>
+  <edge target="C0STY1" source="C0STY0" id="C0STY0,C0STY1" label="C0STY0,C0STY1">
+    <att name="%id" type="real" value="36.97" />
+    <att name="alignment_score" type="real" value="35" />
+    <att name="alignment_len" type="integer" value="211" />
+  </edge>
+  <edge source="C0STY0" target="Q9X4K2" label="C0STY0,Q9X4K2" id="C0STY0,Q9X4K2">
+    <att name="%id" type="real" value="37.37" />
+    <att name="alignment_score" type="real" value="35" />
+    <att name="alignment_len" type="integer" value="190" />
+  </edge>
+  <edge source="Q88IY3" target="Q8E990" label="Q88IY3,Q8E990" id="Q88IY3,Q8E990">
+    <att name="%id" type="real" value="44.20" />
+    <att name="alignment_score" type="real" value="35" />
+    <att name="alignment_len" type="integer" value="181" />
+  </edge>
+  <edge target="Q9I5F3" source="Q9HZ17" id="Q9HZ17,Q9I5F3" label="Q9HZ17,Q9I5F3">
+    <att name="%id" type="real" value="38.65" />
+    <att name="alignment_score" type="real" value="35" />
+    <att name="alignment_len" type="integer" value="207" />
+  </edge>
+</graph>

@@ -1,0 +1,51 @@
+---
+title: "Exploring Azoreductases in healthy, IBD and CRC individiuals"
+author: "Domenick J. Braccia"
+date: "10/29/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Loading Libraries
+```{r}
+library(curatedMetagenomicData)
+library(tictoc)
+library(dplyr)
+library(ggplot2)
+library(VennDiagram)
+library(UpSetR)
+library(patchwork)
+library(cowplot)
+library(svglite)
+library(scales)
+library(reshape2)
+library(seqinr)
+library(ggforce)
+```
+
+## Loading and processing data
+```{r}
+source("process_data_hmm.R")
+```
+
+## Load GutFunFind results
+
+```{r}
+source("gene_hits_table_hmm.R")
+```
+
+## Examining RA of azoreducing species in healthy controls
+
+```{r}
+source("healthy_relative_abundances_hmm.R")
+```
+
+## RA of azoreducing species in at risk groups (IBD, CRC)
+
+```{r}
+source("risk_relative_abundances_hmm.R")
+```
+
