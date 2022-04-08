@@ -18,8 +18,8 @@ uhgg_genid2taxa <- read.csv("../../data/from-xiaofang/spec.txt", sep = '\t', hea
 uhgg_genid2taxa$V2 <- gsub(";", "|", uhgg_genid2taxa$V2)
 colnames(uhgg_genid2taxa) <- c("genome_ID", "taxa_ID")
 
-azored_taxa_hits_raw <- filter(azored_taxa_hits_raw, azored_pa == "present")
-azored_taxa_hits <- as.vector(t(azored_taxa_hits_raw$taxa_name), mode = "character") 
+azored_taxa_hits_present <- filter(azored_taxa_hits_raw, azored_pa == "present")
+azored_taxa_hits <- as.vector(t(azored_taxa_hits_present$taxa_name), mode = "character") 
 azored_taxa_hits <- gsub(";", "|", azored_taxa_hits)
 azored_taxa_hits <- unique(azored_taxa_hits) ## removing some duplicates, (ex. s__Collinsella_aerofaciens_F)
 

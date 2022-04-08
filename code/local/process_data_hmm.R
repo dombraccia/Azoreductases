@@ -20,6 +20,7 @@
 # }
 
 # ====================== kraken2 data from Xiaofang ========================= #
+getwd()
 print("- loading kraken2 RA from Xiaofang")
 k2_counts <- readRDS("../../data/from-xiaofang/kraken2_output.rds")
 k2_pData <- readRDS("../../data/from-xiaofang/metadata.rds")
@@ -87,7 +88,7 @@ k2_hmp2_pData <- k2_hmp2_pData[-grep("_", k2_hmp2_pData$External.ID), ]
 
 # =========================================================================== #
 
-print("- processing kraken RA data (hmp2)")
+print("- processing kraken RA data (prism)")
 ## computing RA values from count info
 k2_prism_counts_spp <- k2_prism_counts[grep("s__", rownames(k2_prism_counts)), ]
 k2_prism_RA <- prop.table(k2_prism_counts_spp, 2) * 100 ## counts -> RA (%)

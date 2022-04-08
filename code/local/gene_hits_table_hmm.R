@@ -31,3 +31,20 @@ for (i in 1:dim(azored_genes)[1]) {
 }
 # select(azored_genes, -c(absent)) # removing "absent" column
 
+#### stats for manuscript ####
+azored_gene_rs <- rowSums(azored_genes[,4:16])
+azored_gene_cs <- colSums(azored_genes[,4:16])
+
+## number of species with 1 putative azoreductase
+sum(azored_gene_rs == 1)
+sum(azored_gene_rs == 1) / 4644
+
+## number of species with 2 putative azoreductase
+sum(azored_gene_rs == 2)
+sum(azored_gene_rs == 2) / 4644
+
+## number of species with 3+ putative azoreductase
+sum(azored_gene_rs >= 3)
+sum(azored_gene_rs >= 3) / 4644
+
+
